@@ -16,13 +16,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100093172417993"
+        "100027279883548"
     ],
     "ABSOLUTES": [
-        "100093172417993"
+        "100027279883548"
     ],
-    "NAME": "Ai",
-    "PREFIX": "*",
+    "NAME": "Lelouch",
+    "PREFIX": "/",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
